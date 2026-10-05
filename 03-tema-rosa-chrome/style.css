@@ -1,0 +1,95 @@
+* {
+    box-sizing: border-box;
+}
+
+html,
+body {
+    margin: 0;
+    width: 100%;
+    height: 100%;
+}
+
+body {
+    background: #000000;
+    color: #FF2DAA;
+
+    font-family: Arial, Helvetica, sans-serif;
+
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+.container {
+    width: 100%;
+    max-width: 750px;
+
+    margin-top: 150px;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+h1 {
+    margin: 0 0 45px;
+
+    color: #FF2DAA;
+
+    font-size: 86px;
+    font-weight: 600;
+    letter-spacing: -6px;
+}
+
+form {
+    width: 100%;
+}
+
+.pesquisa {
+    width: 100%;
+    height: 52px;
+
+    display: flex;
+    align-items: center;
+    gap: 12px;
+
+    padding: 0 20px;
+
+    background: #000000;
+
+    border: 2px solid #FF2DAA;
+    border-radius: 30px;
+
+    box-shadow:
+        0 0 8px rgba(255, 45, 170, 0.35),
+        inset 0 0 8px rgba(255, 45, 170, 0.08);
+}
+
+.pesquisa:focus-within {
+    border-color: #FF1493;
+
+    box-shadow:
+        0 0 14px rgba(255, 20, 147, 0.55),
+        inset 0 0 10px rgba(255, 20, 147, 0.10);
+}
+
+.pesquisa span {
+    color: #FF2DAA;
+    font-size: 25px;
+}
+
+.pesquisa input {
+    flex: 1;
+
+    border: none;
+    outline: none;
+
+    background: transparent;
+    color: #FF2DAA;
+
+    font-size: 16px;
+}
+
+.pesquisa input::placeholder {
+    color: #A92570;
+}
