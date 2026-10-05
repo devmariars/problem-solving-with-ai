@@ -20,3 +20,6 @@ As configurações utilizadas estão disponíveis no arquivo [`settings.json`](.
 
 ## ✨ Resultado
 O ambiente final ficou totalmente personalizado em tons de rosa, mantendo contraste e legibilidade para uso durante a programação.
+
+<img width="1365" height="718" alt="image" src="https://github.com/user-attachments/assets/4bb8749c-b3b5-4c8d-b8dd-460f53fe8de1" />
+
