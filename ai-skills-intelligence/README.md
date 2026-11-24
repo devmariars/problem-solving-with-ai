@@ -78,3 +78,7 @@ Os números e referências acima reproduzem os arquivos de trabalho e o relatór
 ## Conclusão
 A análise indica que combinar fundamentos técnicos, integração de IA, avaliação de qualidade e compreensão de negócios é um caminho de capacitação justificável pelos recortes estudados. O diferencial profissional não se limita a utilizar ferramentas: envolve definir problemas, construir soluções verificáveis e demonstrar resultados com dados.
 
+
+## Arquivos disponíveis
+- [Base numérica em CSV](dados/indicadores.csv) — versão consolidada de 27 indicadores.
+- [Registro de validação](docs/validacao.md) — versão textual resumida do relatório fornecido.
