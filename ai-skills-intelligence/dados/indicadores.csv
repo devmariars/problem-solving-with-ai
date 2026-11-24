@@ -1,0 +1,28 @@
+ID,Fonte,Indicador,Valor,Unidade,Natureza,Ano referencia
+M001,PwC,Crescimento de vagas com IA,0.69,Percentual,Observado,2026
+M002,PwC,Crescimento geral das vagas,0.09,Percentual,Observado,2026
+M003,PwC,Diferencial salarial associado à IA,0.62,Percentual,Observado,2026
+M004,PwC,Países e territórios,27,Contagem,Observado,2026
+R001,Qarera,Machine Learning,0.042,Percentual,Observado,2026
+R002,Qarera,LLMs,0.042,Percentual,Observado,2026
+R003,Qarera,IA generativa,0.033,Percentual,Observado,2026
+R004,Qarera,LangChain / LangGraph,0.022,Percentual,Observado,2026
+R005,Qarera,PyTorch,0.018,Percentual,Observado,2026
+R006,Qarera,TensorFlow,0.016,Percentual,Observado,2026
+R007,Qarera,Engenharia de Prompt,0.016,Percentual,Observado,2026
+R008,Qarera,RAG,0.016,Percentual,Observado,2026
+R009,Qarera,Deep Learning,0.011,Percentual,Observado,2026
+R010,Qarera,Banco de dados vetorial,0.01,Percentual,Observado,2026
+R011,Qarera,Agentes de IA,0.009,Percentual,Observado,2026
+R012,Qarera,APIs da OpenAI,0.009,Percentual,Observado,2026
+R013,Qarera,Visão computacional,0.006,Percentual,Observado,2026
+E001,Tokn,Agentes de IA,0.25,Percentual,Observado,2026
+E002,Tokn,Avaliação de modelos (Evals),0.15,Percentual,Observado,2026
+E003,Tokn,RAG,0.10,Percentual,Observado,2026
+E004,Tokn,Inferência de modelos,0.10,Percentual,Observado,2026
+E005,Tokn,Fine-tuning,0.09,Percentual,Observado,2026
+E006,Tokn,Engenharia de Prompt e contexto,0.05,Percentual,Observado,2026
+P001,ZipRecruiter,Empregadores que esperam ampliar equipes,0.67,Percentual,Expectativa,2027
+P002,ZipRecruiter,IA como impulsionadora do crescimento das equipes,0.30,Percentual,Expectativa,2027
+P003,ZipRecruiter,Empregadores que oferecem remuneração superior por IA,0.41,Percentual,Observado,2026
+P004,ZipRecruiter,Vagas relacionadas à IA na plataforma,0.074,Percentual,Observado,2026
