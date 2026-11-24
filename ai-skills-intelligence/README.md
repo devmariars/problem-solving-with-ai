@@ -2,6 +2,12 @@
 
 Estudo exploratório de Business Intelligence sobre competências em inteligência artificial e perspectivas do mercado de trabalho. Desenvolvido em Power BI Desktop com base estruturada em Excel, visuais nativos e tema JSON personalizado.
 
+## Visualização da dashboard
+
+![Prévia dos indicadores e gráficos da dashboard AI Skills Intelligence](dashboard-preview.svg)
+
+*Prévia vetorial reconstruída a partir da dashboard desenvolvida em Power BI e dos indicadores documentados. Não é uma captura de tela nem o relatório interativo original.* [Abrir imagem ampliada](dashboard-preview.svg).
+
 ## Objetivo
 Identificar competências demandadas em anúncios de emprego, compreender a valorização profissional associada à IA e interpretar expectativas de contratação para 2027. O estudo não pretende prever salários individuais nem representar exclusivamente o Brasil.
 
